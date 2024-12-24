@@ -23,7 +23,9 @@
     "cypress": "^9.5.0",
     "redux-thunk": "2.3.0",
     "style-loader": "^1.2.1",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^3.3.12",
+    "react-to-pdf": "0.0.14",
+    "react-to-print": "^2.13.0"
   },
   "jest": {
     "moduleNameMapper": {
